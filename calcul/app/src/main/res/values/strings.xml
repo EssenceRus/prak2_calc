@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Calcool">Калькулятор</string>
+    <string name="Plus">+</string>
+    <string name="Minus">-</string>
+    <string name="Umnoj">*</string>
+    <string name="Delit">/</string>
+    <string name="ravno">=</string>
+    <string name="rasch">Рассчитать</string>
+    <string name="first">Первое число</string>
+    <string name="second">Второе число</string>
+    <string name="znak">Знак</string>
+    <string name="vtor">Вторая активити</string>
+    <string name="finalString">Строка из первой активити:</string>
+</resources>
